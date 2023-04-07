@@ -1,0 +1,6 @@
+
+.todo{
+ background-color: aliceblue;
+ display: flex;
+ justify-content: space-between;
+}

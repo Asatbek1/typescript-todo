@@ -1,0 +1,10 @@
+.App {
+  margin: 10% 40%;
+}
+.form {
+  background-color: rgb(167, 13, 179);
+  padding: 5%;
+  border-radius: 5px 5px 0 0;
+  display: flex; 
+  justify-content: space-between;
+}
